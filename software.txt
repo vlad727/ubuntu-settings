@@ -1,0 +1,3 @@
+sudo apt-get install ubuntu-tweak 
+sudo snap install pycharm-community --classic
+sudo snap install atom --classic
